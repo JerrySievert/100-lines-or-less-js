@@ -7,7 +7,7 @@ To enter all you need to do is make a pull request to submit your code (see How 
 
 Best of luck!
 
-![App](https://raw.github.com/Esri/100-lines-or-less-js/master/100-lines-or-less.png)
+![App](https://raw.github.com/Esri/100-lines-or-less-js/master/100-lines-or-less-js.png)
 
 ## Current Entries
 
